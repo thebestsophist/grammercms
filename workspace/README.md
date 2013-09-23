@@ -1,0 +1,1 @@
+All customizations (as in everything that doesn’t include the standard install files or the core of the CMS goes here. That includes settings, config filesi, extensions, page templates, and uploaded files all go in here.

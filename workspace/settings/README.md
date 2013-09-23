@@ -1,0 +1,1 @@
+Settings include server config files (such as database credentials) as well as other custom configurations, as well as rarely-updated content that may be used globally across the site (such legal text used at the bottom of the site, etc)

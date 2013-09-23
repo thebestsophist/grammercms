@@ -1,0 +1,1 @@
+Verbs are the actions that can be performed by the server, this includes front-end forms, imports from other sources (such as an RSS feed), emails and other forms of pushed data, internal timed updates, &c.
